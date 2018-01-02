@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HappyBirthday</string>
+    <string name="title_activity_introduction">IntroductionActivity</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
